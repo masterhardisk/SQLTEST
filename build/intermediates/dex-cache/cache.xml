@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/media/gerardo/Archivos/developer/SQLTest/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f52901ac6df6b8e9bc66726ee162323b8bd0a632">
+        <dex dex="/media/gerardo/Archivos/developer/SQLTest/app/build/intermediates/pre-dexed/debug/instant-run_76ea17f9b8f24da821d40a11ff57c1d97d31f0ef.jar" />
+    </item>
+    <item
+        jar="/media/gerardo/Archivos/developer/SQLTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/media/gerardo/Archivos/developer/SQLTest/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_27cb8e6269a8af479cbf67ddf1110f8ed6cf5d33.jar" />
+    </item>
+    <item
+        jar="/media/gerardo/Archivos/developer/SQLTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/media/gerardo/Archivos/developer/SQLTest/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_0aa2a3a9dacbef15ceb56831918e0e5b934a85a5.jar" />
+    </item>
+    <item
+        jar="/home/gerardo/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/media/gerardo/Archivos/developer/SQLTest/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_c55cd842e1d345a8183b9dd97e5365c7c77dc08c.jar" />
+    </item>
+    <item
+        jar="/media/gerardo/Archivos/developer/SQLTest/app/build/intermediates/exploded-aar/com.android.support/design/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a5238e4bdcd6568b82db669d41817de670586b8">
+        <dex dex="/media/gerardo/Archivos/developer/SQLTest/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.0.0_2948fa22b8d25e2b2b2bf67d87fa2a7b12a0289b.jar" />
+    </item>
+    <item
+        jar="/media/gerardo/Archivos/developer/SQLTest/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/media/gerardo/Archivos/developer/SQLTest/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_ea8e0b7ecd4e8944315c168ace451deca9ec3d74.jar" />
+    </item>
+    <item
+        jar="/media/gerardo/Archivos/developer/SQLTest/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/media/gerardo/Archivos/developer/SQLTest/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_3407cbf618a4a295412ffdbece34698f3973976d.jar" />
+    </item>
+    <item
+        jar="/media/gerardo/Archivos/developer/SQLTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/media/gerardo/Archivos/developer/SQLTest/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_410cee32e43a3d6448f1fe467b6c0827c15bf009.jar" />
+    </item>
+    <item
+        jar="/media/gerardo/Archivos/developer/SQLTest/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d9c9e98793818defe983aed288b05083dd123ad0">
+        <dex dex="/media/gerardo/Archivos/developer/SQLTest/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_811ecafe48c45bd50c260cfe59dff9d25d610dd9.jar" />
+    </item>
+
+</items>
